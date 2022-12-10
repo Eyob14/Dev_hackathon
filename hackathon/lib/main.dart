@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:hackathon/presentation/pages/Explore.dart';
 import 'package:hackathon/presentation/pages/Home.dart';
+import 'package:hackathon/presentation/pages/MyAccount.dart';
+import 'package:hackathon/presentation/pages/SplashScreen.dart';
 
 void main() {
   runApp(const MyApp());
