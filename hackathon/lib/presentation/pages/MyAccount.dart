@@ -87,7 +87,7 @@ class MyAccount extends StatelessWidget {
                     children: [
                       Text("Change Profile"),
                       IconButton(
-                          onPressed: () => {}, icon: Icon(Icons.arrow_back))
+                          onPressed: () => {}, icon: Icon(Icons.arrow_forward_ios))
                     ],
                   ),
                 ),
@@ -103,7 +103,7 @@ class MyAccount extends StatelessWidget {
                     children: [
                       Text("Transfer to Bank"),
                       IconButton(
-                          onPressed: () => {}, icon: Icon(Icons.arrow_back))
+                          onPressed: () => {}, icon: Icon(Icons.arrow_forward_ios))
                     ],
                   ),
                 ),
@@ -119,7 +119,7 @@ class MyAccount extends StatelessWidget {
                     children: [
                       Text("Change PIN"),
                       IconButton(
-                          onPressed: () => {}, icon: Icon(Icons.arrow_back))
+                          onPressed: () => {}, icon: Icon(Icons.arrow_forward_ios))
                     ],
                   ),
                 ),
@@ -135,7 +135,7 @@ class MyAccount extends StatelessWidget {
                     children: [
                       Text("Nearby"),
                       IconButton(
-                          onPressed: () => {}, icon: Icon(Icons.arrow_back))
+                          onPressed: () => {}, icon: Icon(Icons.arrow_forward_ios))
                     ],
                   ),
                 ),
@@ -151,7 +151,7 @@ class MyAccount extends StatelessWidget {
                     children: [
                       Text("Change Language"),
                       IconButton(
-                          onPressed: () => {}, icon: Icon(Icons.arrow_back))
+                          onPressed: () => {}, icon: Icon(Icons.arrow_forward_ios))
                     ],
                   ),
                 ),
@@ -167,7 +167,7 @@ class MyAccount extends StatelessWidget {
                     children: [
                       Text("Security Questions"),
                       IconButton(
-                          onPressed: () => {}, icon: Icon(Icons.arrow_back))
+                          onPressed: () => {}, icon: Icon(Icons.arrow_forward_ios))
                     ],
                   ),
                 ),
