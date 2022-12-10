@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:hackathon/presentation/pages/Explore.dart';
 import 'package:hackathon/presentation/pages/Home.dart';
 
 void main() {
@@ -19,7 +20,7 @@ class MyApp extends StatelessWidget {
       ),
       initialRoute: '/',
       routes: {
-        '/': (context) => const Home(),
+        '/': (context) => const Explore(),
         // '/second': (context) => const SecondRoute(),
       },
     );
